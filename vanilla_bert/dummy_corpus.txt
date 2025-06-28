@@ -1,0 +1,10 @@
+This is the first sentence for our BERT model to learn from.
+BERT stands for Bidirectional Encoder Representations from Transformers.
+Masked language modeling is a key pre-training task.
+We will try to predict masked words in these sentences.
+The tokenizer will break this down into subword units.
+Training requires a good amount of data and compute resources.
+Let's see how our vanilla BERT performs after some epochs.
+hello world this is a test of the bpe tokenizer and mlm dataset.
+another sentence to make the corpus a bit larger for testing purposes.
+the quick brown fox jumps over the lazy dog and eats some food.
